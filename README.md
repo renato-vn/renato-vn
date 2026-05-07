@@ -56,6 +56,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=renato-vn&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=renato-vn&label=Profile%20views&color=lightgrey&style=for-the-badge" alt="@renato-vn" /> </p>
