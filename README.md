@@ -30,7 +30,7 @@
 ---
 
 #### 🎨 UI / Styling / Design
-[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,figma,photoshop,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,sass,figma,photoshop,ai,pr)](https://skillicons.dev)
 
 ---
 
